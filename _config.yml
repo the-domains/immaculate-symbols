@@ -12,3 +12,7 @@ color:
     - '#01B0F0'
     - '#AEEE00'
 name: immaculate symbols
+navigation:
+  - name: Pump Up The Jam
+    id: 420a163a-e6ec-4593-8025-baddd7b1af83
+    type: content
