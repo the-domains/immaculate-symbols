@@ -1,0 +1,14 @@
+layout_spectrum: 0.9611711993347853
+typography_spectrum: 0.07408182043582201
+color:
+  brandStrength: 0.9524563206359744
+  lightness: 0.7590239690616727
+  saturation: 0.35557263041846454
+  rhythmicContrast: 0.9610861276742071
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+name: immaculate symbols
