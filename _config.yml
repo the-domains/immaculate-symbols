@@ -6,13 +6,9 @@ color:
   saturation: 0.35557263041846454
   rhythmicContrast: 0.9610861276742071
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: immaculate symbols
-navigation:
-  - name: Pump Up The Jam
-    id: 420a163a-e6ec-4593-8025-baddd7b1af83
-    type: content
